@@ -6,9 +6,11 @@ This project is an end-to-end Business Intelligence solution that demonstrates t
 
 The project simulates customer, account, and transaction data for a banking environment and showcases how Python, PostgreSQL, SQL, and Power BI can be integrated to generate meaningful business insights for decision-makers.
 
+![Alt Text](Images/Workflow.png)
 ---
 
 ## Objectives
+
 
 * Build a complete data analytics pipeline.
 * Clean and preprocess raw banking data using Python.
@@ -122,7 +124,9 @@ Provides an overview of overall banking performance including:
 * Customer Distribution
 * Yearly Trends
 
----
+
+
+![Executive Summary](Images/Executive_summary.png)
 
 ### 2. Customer & Account Analysis
 
@@ -136,7 +140,9 @@ Focuses on customer behaviour and account insights including:
 * Branch Performance
 * Customer Segmentation
 
----
+
+
+![Customer Analysis](Images/Customers_and_Account_Analysis.png)
 
 ### 3. Account & Transaction Analysis
 
@@ -150,7 +156,7 @@ Provides financial performance insights such as:
 * Transaction Trends
 * Branch Comparison
 
----
+![Transaction Analysis](Images/Accounts_and_Transactions_Analysis.png)
 
 ## Key Skills Demonstrated
 

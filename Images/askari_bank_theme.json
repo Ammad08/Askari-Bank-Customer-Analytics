@@ -1,0 +1,126 @@
+{
+  "name": "Askari Bank Blue Theme",
+  "dataColors": [
+    "#003865",
+    "#4FC3F7",
+    "#0A5C99",
+    "#87CEEB",
+    "#002850",
+    "#63B8FF",
+    "#1E6FA8",
+    "#B3E5FC"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#0A2540",
+  "tableAccent": "#003865",
+  "good": "#2E8B57",
+  "neutral": "#FFB74D",
+  "bad": "#C0392B",
+  "maximum": "#003865",
+  "center": "#4FC3F7",
+  "minimum": "#E3F2FD",
+  "null": "#B0BEC5",
+  "textClasses": {
+    "callout": {
+      "color": "#003865",
+      "fontFace": "Segoe UI Semibold"
+    },
+    "title": {
+      "color": "#003865",
+      "fontFace": "Segoe UI Semibold"
+    },
+    "header": {
+      "color": "#0A2540",
+      "fontFace": "Segoe UI Semibold"
+    },
+    "label": {
+      "color": "#0A2540",
+      "fontFace": "Segoe UI"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#D6E4F0"
+              }
+            },
+            "radius": 4
+          }
+        ],
+        "title": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#003865"
+              }
+            },
+            "background": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "bold": true,
+            "fontSize": 12
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#003865"
+              }
+            },
+            "fontSize": 28
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#4FC3F7"
+              }
+            },
+            "fontSize": 12
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "items": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#0A2540"
+              }
+            },
+            "background": {
+              "solid": {
+                "color": "#E3F2FD"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
